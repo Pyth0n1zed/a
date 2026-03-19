@@ -22,5 +22,11 @@
     "text": "This is michael, this is my PC account.",
     "ts": "07:39 PM",
     "chatId": "general"
+  },
+  {
+    "user": "Michael",
+    "text": "Testing alternate account.",
+    "ts": "08:41 PM",
+    "chatId": "general"
   }
 ]
