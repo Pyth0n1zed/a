@@ -40,5 +40,11 @@
     "text": "Hello.",
     "ts": "07:45 PM",
     "chatId": "chat_1773884655288"
+  },
+  {
+    "user": "Michael",
+    "text": "took a while to load, eh?",
+    "ts": "08:45 PM",
+    "chatId": "chat_1773884655288"
   }
 ]
